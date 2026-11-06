@@ -4,7 +4,7 @@
 
 🔭 **Graduation project:** real-time Arabic sign-language to speech translation (MediaPipe + BiLSTM + LLM + TTS)
 🛠️ **Tools:** Python · PyTorch · TensorFlow/Keras · OpenCV · MediaPipe · scikit-learn · MATLAB/Simulink · Arduino · Raspberry Pi · Multisim · Fritzing
-📊 **Kaggle:** [osamaalmaliki](https://www.kaggle.com/osamaalmaliki)
+
 
 ---
 
